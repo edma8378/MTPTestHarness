@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2013\Projects\MTP Test Harness\MTP Test Harness\bin\Debug\MTP Test Harness.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\MTP Test Harness\MTP Test Harness\obj\Debug\MTP Test Harness.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\MTP Test Harness\MTP Test Harness\obj\Debug\MTP_Test_Harness.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\MTP Test Harness\MTP Test Harness\obj\Debug\MTP Test Harness.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\MTP Test Harness\MTP Test Harness\bin\Debug\MTP Test Harness.exe
+c:\users\administrator\documents\visual studio 2013\Projects\MTP Test Harness\MTP Test Harness\bin\Debug\MTP Test Harness.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\MTP Test Harness\MTP Test Harness\obj\Debug\MTP Test Harness.exe
+c:\users\administrator\documents\visual studio 2013\Projects\MTP Test Harness\MTP Test Harness\obj\Debug\MTP Test Harness.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\MTP Test Harness\MTP Test Harness\obj\Debug\MTP_Test_Harness.mtpTestHarness.resources
